@@ -17,3 +17,5 @@ a meaningless string that does not identify the user.
 In case of a breach, there is nothing to steal. 
 
 The username/pseudo or email address used during the session is NOT kept in a file at website's end.
+
+Despite the full privacy, the session's username/pseudo makes it easy to follow up the activity, comments and usages of a given anonymous user. This is because 'identity' and 'character' are of different nature. and correspond to a different angle.
